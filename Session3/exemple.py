@@ -9,7 +9,7 @@
 #print(type(names))
 print("Hi there right now the class have: ")
 names = ["Canh","Hieu","Duc Anh"]
-print(*names, sep=", ") #separator
+print(names, sep=", ") #separator
 #Create
 while True:
     m= input("Would you like to add somebody else: ")
@@ -17,3 +17,5 @@ while True:
 
     print("Now the class have")
     print(names)
+
+break
