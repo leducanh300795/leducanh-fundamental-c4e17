@@ -17,5 +17,4 @@ while True:
 
     print("Now the class have")
     print(names)
-
-break
+    break
